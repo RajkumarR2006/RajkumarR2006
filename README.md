@@ -1,17 +1,26 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00D9FF&height=220&section=header&text=RAJKUMAR%20R&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%E2%80%A2%20GenAI%20%26%20RAG%20%E2%80%A2%20Post-Quantum%20Security&descAlignY=58&descSize=20"/>
+![Rajkumar](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:00D9FF&height=220&section=header&text=RAJKUMAR%20R&fontSize=60&fontColor=ffffff&animation=fadeIn)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2200&pause=700&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+RAG+pipelines+that+cite+their+sources;Benchmarking+crypto+against+quantum+computers;Squeezing+YOLO+onto+a+Jetson+Nano;9.05+CGPA+%2F%2F+2+publications+%2F%2F+0+sleep" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2200&pause=700&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+RAG+pipelines+that+cite+their+sources;Benchmarking+crypto+against+quantum+computers;Squeezing+YOLO+onto+a+Jetson+Nano;9.05+CGPA+%2F%2F+2+publications+%2F%2F+0+sleep" alt="Typing SVG">
 
-<a href="https://linkedin.com/in/rajkumarr06"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:rajkumarravi2006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/RajkumarR2006"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=RajkumarR2006&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS"/>
+<br>
+
+<a href="https://linkedin.com/in/rajkumarr06">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:rajkumarravi2006@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://github.com/RajkumarR2006">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:0F2027&height=4"/>
+---
 
 <br>
 
