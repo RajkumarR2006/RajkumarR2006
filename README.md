@@ -1,37 +1,38 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Rajkumar+R+%F0%9F%91%8B;I+build+GenAI+%2B+RAG+systems;I+break+encryption...+with+quantum+computers;I+push+ML+models+to+the+edge" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00D9FF&height=220&section=header&text=RAJKUMAR%20R&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%E2%80%A2%20GenAI%20%26%20RAG%20%E2%80%A2%20Post-Quantum%20Security&descAlignY=58&descSize=20"/>
 
-### AI/ML Engineer &nbsp;•&nbsp; GenAI & RAG &nbsp;•&nbsp; Post-Quantum Security &nbsp;•&nbsp; Edge AI
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2200&pause=700&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+RAG+pipelines+that+cite+their+sources;Benchmarking+crypto+against+quantum+computers;Squeezing+YOLO+onto+a+Jetson+Nano;9.05+CGPA+%2F%2F+2+publications+%2F%2F+0+sleep" alt="Typing SVG" />
 
 <a href="https://linkedin.com/in/rajkumarr06"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:rajkumarravi2006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/RajkumarR2006"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=RajkumarR2006&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS"/>
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:0F2027&height=4"/>
 
 <br>
 
 ```python
 class Rajkumar:
     def __init__(self):
-        self.role        = "B.Tech AI & Data Science, Amrita Vishwa Vidyapeetham"
-        self.gpa         = 9.05
-        self.focus       = ["RAG pipelines", "Post-Quantum Crypto", "Edge Computer Vision"]
-        self.first_author = "HyDGA-YOLO (Springer, submitted to SPIE)"
-        self.co_author     = "IEEE IATMSI 2026 — Quantum-Resistant Blockchain"
-        self.currently_breaking = "YOLOv11n's parameter count, 47% at a time"
+        self.role   = "B.Tech AI & Data Science @ Amrita Vishwa Vidyapeetham"
+        self.gpa    = 9.05
+        self.papers = ["HyDGA-YOLO (Springer, SPIE review)", "Post-Quantum Blockchain (IEEE IATMSI 2026)"]
+        self.stack  = ["RAG", "Edge CV", "Post-Quantum Crypto", "Distributed Systems"]
 
     def ship(self):
         while True:
-            self.learn() -> self.build() -> self.benchmark() -> self.repeat()
+            learn() -> build() -> benchmark() -> repeat()   # no exit condition, by design
 ```
 
 <br>
 
-## ⚡ What I've Shipped
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=60&section=header&text=%E2%9A%A1%20WHAT%20I'VE%20SHIPPED&fontSize=28&fontColor=00D9FF&animation=twinkling"/>
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -39,36 +40,47 @@ class Rajkumar:
 **Semantic Q&A over startup funding data**
 - Hybrid retrieval — FAISS + BM25, no half-measures
 - NetworkX knowledge graph + intelligent query router
-- 3-layer verification pipeline before an answer ever reaches you
-- `Python` `FastAPI` `Next.js 14` `Llama-3` `FAISS`
+- 3-layer verification before an answer reaches you
+<br>
 
-[`→ AI-VERSE-MYTHICAL-MAVERICKS`](https://github.com/RajkumarR2006/AI-VERSE-MYTHICAL-MAVERICKS)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+
+[**→ AI-VERSE-MYTHICAL-MAVERICKS**](https://github.com/RajkumarR2006/AI-VERSE-MYTHICAL-MAVERICKS)
 
 </td>
 <td width="50%" valign="top">
 
-### 🩸 HyDGA-YOLO
+### 🩸 HyDGA-YOLO — *first-authored*
 **Blood-cell detection, small enough for the edge**
 - Fire-inspired backbone + channel-pruned Diet Head
 - **1.37M params** — 47% leaner than YOLOv11n
-- 91.1% mAP (BCCD) · 99.4% mAP (PBC) · 61 FPS on Jetson Orin Nano
-- First-authored · Springer manuscript · under SPIE review
+- 91.1% mAP (BCCD) · 99.4% mAP (PBC) · 61 FPS on Jetson
+<br>
 
-`PyTorch` `TensorRT` `NVIDIA Jetson`
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Jetson](https://img.shields.io/badge/Jetson_Orin_Nano-76B900?style=flat-square&logo=nvidia&logoColor=white)
+
+*Springer manuscript · under SPIE journal review*
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🔐 Quantum-Resistant Blockchain
-**Is your blockchain ready for quantum computers? Mine tested that.**
-- Benchmarked Falcon-512, Dilithium & SPHINCS+ vs RSA-2048 / ECC-256
+### 🔐 Quantum-Resistant Blockchain — *co-authored*
+**Stress-testing crypto against quantum computers**
+- Falcon-512, Dilithium & SPHINCS+ vs RSA-2048 / ECC-256
 - 10,000 iterations — signing, verification, latency, throughput
-- Co-authored & presented, **IEEE IATMSI 2026**
-- `Python` `Cryptography` `Post-Quantum Crypto`
+- Presented at **IEEE IATMSI 2026**
+<br>
 
-[`→ Quantum-Resistant-Blockchain`](https://github.com/RajkumarR2006/Quantum-Resistant-Blockchain-Evaluating-Falcon-Dilithium-SPHINCS)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Cryptography](https://img.shields.io/badge/Post--Quantum_Crypto-6E40C9?style=flat-square&logo=letsencrypt&logoColor=white)
+
+[**→ Quantum-Resistant-Blockchain**](https://github.com/RajkumarR2006/Quantum-Resistant-Blockchain-Evaluating-Falcon-Dilithium-SPHINCS)
 
 </td>
 <td width="50%" valign="top">
@@ -77,81 +89,64 @@ class Rajkumar:
 **Making default risk a queryable question**
 - SQL pipelines for financial record storage & preprocessing
 - ML-driven loan default prediction layered on top
-- `Python` `SQL` `Pandas` `Scikit-learn`
+<br>
 
-[`→ PySQL-Bank-Loan-Risk-Management`](https://github.com/RajkumarR2006/PySQL---Bank-Loan-Risk-Management)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+[**→ PySQL-Bank-Loan-Risk-Management**](https://github.com/RajkumarR2006/PySQL---Bank-Loan-Risk-Management)
 
 </td>
 </tr>
 </table>
 
-<br>
-
-## 🛠️ Stack
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=60&section=header&text=%F0%9F%9B%A0%EF%B8%8F%20STACK&fontSize=28&fontColor=00D9FF&animation=twinkling"/>
 
 <div align="center">
 
-**Languages**
-<br>
-<img src="https://skillicons.dev/icons?i=python,java,scala,sql,matlab" />
+<img src="https://skillicons.dev/icons?i=python,java,scala,sql,matlab,pytorch,tensorflow,sklearn,opencv,fastapi,nextjs,git,github,linux,vscode,aws&perline=8" />
 
-**AI / ML / GenAI**
-<br>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" />
-<br>
-`LLMs` `RAG` `Embeddings` `FAISS` `BM25` `Knowledge Graphs` `Prompt Engineering` `AI Safety`
+<br><br>
 
-**Backend & Tooling**
-<br>
-<img src="https://skillicons.dev/icons?i=fastapi,nextjs,git,github,linux,vscode,aws" />
-
-**Edge & Systems**
-<br>
-`NVIDIA Jetson Orin Nano` `Raspberry Pi 5` `Arduino Uno` `TensorRT` `YOLO`
-<br>
-`Distributed Systems` `OpenMP` `MPI` `HPC` `Post-Quantum Cryptography`
+`LLMs` `RAG` `Embeddings` `FAISS` `BM25` `Knowledge Graphs`  `Prompt Engineering` `AI Safety`
+`NVIDIA Jetson` `TensorRT` `YOLO` `Distributed Systems` `OpenMP` `MPI` `HPC` `Post-Quantum Crypto`
 
 </div>
 
-<br>
-
-## 📊 By the Numbers
-
-| | |
-|---|---|
-| 🎓 CGPA | 9.05 / 10 — AI & Data Science, Amrita |
-| 📄 Publications | 1 first-author (Springer/SPIE) · 1 co-author (IEEE IATMSI 2026) |
-| ⚡ Model Efficiency | 47% fewer parameters, 61 FPS on-device |
-| 🔑 Crypto Benchmarks | 5 algorithms × 10,000 iterations |
-| 🏆 Hackathons | Anokha 2026 · IIT Madras Shaastra 2026 — with **Mythical Mavericks** |
-
-<br>
-
-## 📈 GitHub Stats
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=60&section=header&text=%F0%9F%93%88%20LIVE%20STATS&fontSize=28&fontColor=00D9FF&animation=twinkling"/>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=RajkumarR2006&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=RajkumarR2006&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajkumarR2006&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</div>
 
-<div align="center">
 <img src="https://streak-stats.demolab.com?user=RajkumarR2006&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RajkumarR2006&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+### 🏆 Trophy Case
+<img src="https://github-profile-trophy.vercel.app/?username=RajkumarR2006&theme=algolia&no-frame=true&row=1&column=7&margin-w=8"/>
+
+### 🐍 Contribution Snake
+<img src="https://raw.githubusercontent.com/RajkumarR2006/RajkumarR2006/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<sub>*(snake animates once the GitHub Action below runs on your repo — see setup)*</sub>
+
 </div>
 
-<br>
-
-## 🎯 Currently
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=60&section=header&text=%F0%9F%8E%AF%20CURRENTLY&fontSize=28&fontColor=00D9FF&animation=twinkling"/>
 
 ```diff
-+ Building a GitHub portfolio that reads like an engineering track record, not a project list
-+ Chasing AI/ML engineering roles where reliability matters as much as accuracy
++ Building a portfolio that reads like an engineering track record, not a project list
++ Chasing AI/ML roles where reliability matters as much as accuracy
 + Reading: production RAG evaluation, distributed systems design
 ```
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0F2027&height=150&section=footer&animation=fadeIn"/>
+
 <div align="center">
-
-**Build. Benchmark. Ship. Repeat.**
-
-⭐ *Thanks for stopping by — feel free to reach out if you're into RAG, edge AI, or breaking cryptography for science.*
-
+<b>Build. Benchmark. Ship. Repeat.</b>
+<br>
+⭐ Reach out if you're into RAG, edge AI, or breaking cryptography for science.
 </div>
