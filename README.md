@@ -118,16 +118,6 @@ class Rajkumar:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RajkumarR2006&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajkumarR2006&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://streak-stats.demolab.com?user=RajkumarR2006&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RajkumarR2006&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-### 🏆 Trophy Case
-<img src="https://github-profile-trophy.vercel.app/?username=RajkumarR2006&theme=algolia&no-frame=true&row=1&column=7&margin-w=8"/>
-
 ### 🐍 Contribution Snake
 <img src="https://raw.githubusercontent.com/RajkumarR2006/RajkumarR2006/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
